@@ -1,0 +1,17 @@
+{
+  "name": "glyph-pbf-composite",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsc",
+    "generate": "bash generate.sh",
+    "prepare": "npm run build"
+  },
+  "type": "module",
+  "dependencies": {
+    "protocol-buffers": "^5.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.1",
+    "typescript": "^5.7.3"
+  }
+}
