@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "scripts": {
     "build": "tsc",
-    "generate": "bash generate.sh",
+    "generate": "npm run generate:sans && npm run generate:serif",
+    "generate:sans": "node dist IBMPlexSans",
+    "generate:serif": "node dist IBMPlexSerif",
     "prepare": "npm run build"
   },
   "type": "module",

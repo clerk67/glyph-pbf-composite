@@ -1,0 +1,132 @@
+{
+  "fonts": [
+    {
+      "name": "IBMPlexSans",
+      "styles": [
+        {
+          "name": "IBMPlexSans-Thin",
+          "gredients": [
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans@1.1.0/packages/plex-sans/fonts/complete/ttf/IBMPlexSans-Thin.ttf" },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-arabic@1.1.0/packages/plex-sans-arabic/fonts/complete/ttf/IBMPlexSansArabic-Thin.ttf" },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-devanagari@1.1.0/packages/plex-sans-devanagari/fonts/complete/ttf/IBMPlexSansDevanagari-Thin.ttf" },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-hebrew@1.1.0/packages/plex-sans-hebrew/fonts/complete/ttf/IBMPlexSansHebrew-Thin.ttf" },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-jp@1.1.0/packages/plex-sans-jp/fonts/complete/ttf/hinted/IBMPlexSansJP-Thin.ttf" },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-kr@1.1.0/packages/plex-sans-kr/fonts/complete/ttf/hinted/IBMPlexSansKR-Thin.ttf" },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-sc@1.1.0/packages/plex-sans-sc/fonts/complete/ttf/hinted/IBMPlexSansSC-Thin.ttf", "offset": [-4, 0] },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-tc@1.1.0/packages/plex-sans-tc/fonts/complete/ttf/hinted/IBMPlexSansTC-Thin.ttf", "offset": [-4, 0] },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-thai@1.1.0/packages/plex-sans-thai/fonts/complete/ttf/IBMPlexSansThai-Thin.ttf" },
+            { "url": "https://github.com/notofonts/notofonts.github.io/raw/refs/heads/main/fonts/NotoSansThaana/hinted/ttf/NotoSansThaana-Thin.ttf" }
+          ]
+        },
+        {
+          "name": "IBMPlexSans-ExtraLight",
+          "gredients": [
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans@1.1.0/packages/plex-sans/fonts/complete/ttf/IBMPlexSans-ExtraLight.ttf" },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-arabic@1.1.0/packages/plex-sans-arabic/fonts/complete/ttf/IBMPlexSansArabic-ExtraLight.ttf" },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-devanagari@1.1.0/packages/plex-sans-devanagari/fonts/complete/ttf/IBMPlexSansDevanagari-ExtraLight.ttf" },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-hebrew@1.1.0/packages/plex-sans-hebrew/fonts/complete/ttf/IBMPlexSansHebrew-ExtraLight.ttf" },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-jp@1.1.0/packages/plex-sans-jp/fonts/complete/ttf/hinted/IBMPlexSansJP-ExtraLight.ttf" },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-kr@1.1.0/packages/plex-sans-kr/fonts/complete/ttf/hinted/IBMPlexSansKR-ExtraLight.ttf" },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-sc@1.1.0/packages/plex-sans-sc/fonts/complete/ttf/hinted/IBMPlexSansSC-ExtraLight.ttf", "offset": [-4, 0] },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-tc@1.1.0/packages/plex-sans-tc/fonts/complete/ttf/hinted/IBMPlexSansTC-ExtraLight.ttf", "offset": [-4, 0] },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-thai@1.1.0/packages/plex-sans-thai/fonts/complete/ttf/IBMPlexSansThai-ExtraLight.ttf" },
+            { "url": "https://github.com/notofonts/notofonts.github.io/raw/refs/heads/main/fonts/NotoSansThaana/hinted/ttf/NotoSansThaana-ExtraLight.ttf" }
+          ]
+        },
+        {
+          "name": "IBMPlexSans-Light",
+          "gredients": [
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans@1.1.0/packages/plex-sans/fonts/complete/ttf/IBMPlexSans-Light.ttf" },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-arabic@1.1.0/packages/plex-sans-arabic/fonts/complete/ttf/IBMPlexSansArabic-Light.ttf" },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-devanagari@1.1.0/packages/plex-sans-devanagari/fonts/complete/ttf/IBMPlexSansDevanagari-Light.ttf" },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-hebrew@1.1.0/packages/plex-sans-hebrew/fonts/complete/ttf/IBMPlexSansHebrew-Light.ttf" },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-jp@1.1.0/packages/plex-sans-jp/fonts/complete/ttf/hinted/IBMPlexSansJP-Light.ttf" },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-kr@1.1.0/packages/plex-sans-kr/fonts/complete/ttf/hinted/IBMPlexSansKR-Light.ttf" },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-sc@1.1.0/packages/plex-sans-sc/fonts/complete/ttf/hinted/IBMPlexSansSC-Light.ttf", "offset": [-4, 0] },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-tc@1.1.0/packages/plex-sans-tc/fonts/complete/ttf/hinted/IBMPlexSansTC-Light.ttf", "offset": [-4, 0] },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-thai@1.1.0/packages/plex-sans-thai/fonts/complete/ttf/IBMPlexSansThai-Light.ttf" },
+            { "url": "https://github.com/notofonts/notofonts.github.io/raw/refs/heads/main/fonts/NotoSansThaana/hinted/ttf/NotoSansThaana-Light.ttf" }
+          ]
+        },
+        {
+          "name": "IBMPlexSans-Regular",
+          "gredients": [
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans@1.1.0/packages/plex-sans/fonts/complete/ttf/IBMPlexSans-Regular.ttf" },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-arabic@1.1.0/packages/plex-sans-arabic/fonts/complete/ttf/IBMPlexSansArabic-Regular.ttf" },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-devanagari@1.1.0/packages/plex-sans-devanagari/fonts/complete/ttf/IBMPlexSansDevanagari-Regular.ttf" },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-hebrew@1.1.0/packages/plex-sans-hebrew/fonts/complete/ttf/IBMPlexSansHebrew-Regular.ttf" },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-jp@1.1.0/packages/plex-sans-jp/fonts/complete/ttf/hinted/IBMPlexSansJP-Regular.ttf" },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-kr@1.1.0/packages/plex-sans-kr/fonts/complete/ttf/hinted/IBMPlexSansKR-Regular.ttf" },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-sc@1.1.0/packages/plex-sans-sc/fonts/complete/ttf/hinted/IBMPlexSansSC-Regular.ttf", "offset": [-4, 0] },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-tc@1.1.0/packages/plex-sans-tc/fonts/complete/ttf/hinted/IBMPlexSansTC-Regular.ttf", "offset": [-4, 0] },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-thai@1.1.0/packages/plex-sans-thai/fonts/complete/ttf/IBMPlexSansThai-Regular.ttf" },
+            { "url": "https://github.com/notofonts/notofonts.github.io/raw/refs/heads/main/fonts/NotoSansThaana/hinted/ttf/NotoSansThaana-Regular.ttf" }
+          ]
+        },
+        {
+          "name": "IBMPlexSans-Medium",
+          "gredients": [
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans@1.1.0/packages/plex-sans/fonts/complete/ttf/IBMPlexSans-Medium.ttf" },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-arabic@1.1.0/packages/plex-sans-arabic/fonts/complete/ttf/IBMPlexSansArabic-Medium.ttf" },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-devanagari@1.1.0/packages/plex-sans-devanagari/fonts/complete/ttf/IBMPlexSansDevanagari-Medium.ttf" },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-hebrew@1.1.0/packages/plex-sans-hebrew/fonts/complete/ttf/IBMPlexSansHebrew-Medium.ttf" },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-jp@1.1.0/packages/plex-sans-jp/fonts/complete/ttf/hinted/IBMPlexSansJP-Medium.ttf" },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-kr@1.1.0/packages/plex-sans-kr/fonts/complete/ttf/hinted/IBMPlexSansKR-Medium.ttf" },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-sc@1.1.0/packages/plex-sans-sc/fonts/complete/ttf/hinted/IBMPlexSansSC-Medium.ttf", "offset": [-4, 0] },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-tc@1.1.0/packages/plex-sans-tc/fonts/complete/ttf/hinted/IBMPlexSansTC-Medium.ttf", "offset": [-4, 0] },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-thai@1.1.0/packages/plex-sans-thai/fonts/complete/ttf/IBMPlexSansThai-Medium.ttf" },
+            { "url": "https://github.com/notofonts/notofonts.github.io/raw/refs/heads/main/fonts/NotoSansThaana/hinted/ttf/NotoSansThaana-Medium.ttf" }
+          ]
+        },
+        {
+          "name": "IBMPlexSans-SemiBold",
+          "gredients": [
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans@1.1.0/packages/plex-sans/fonts/complete/ttf/IBMPlexSans-SemiBold.ttf" },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-arabic@1.1.0/packages/plex-sans-arabic/fonts/complete/ttf/IBMPlexSansArabic-SemiBold.ttf" },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-devanagari@1.1.0/packages/plex-sans-devanagari/fonts/complete/ttf/IBMPlexSansDevanagari-SemiBold.ttf" },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-hebrew@1.1.0/packages/plex-sans-hebrew/fonts/complete/ttf/IBMPlexSansHebrew-SemiBold.ttf" },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-jp@1.1.0/packages/plex-sans-jp/fonts/complete/ttf/hinted/IBMPlexSansJP-SemiBold.ttf" },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-kr@1.1.0/packages/plex-sans-kr/fonts/complete/ttf/hinted/IBMPlexSansKR-SemiBold.ttf" },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-sc@1.1.0/packages/plex-sans-sc/fonts/complete/ttf/hinted/IBMPlexSansSC-SemiBold.ttf", "offset": [-4, 0] },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-tc@1.1.0/packages/plex-sans-tc/fonts/complete/ttf/hinted/IBMPlexSansTC-SemiBold.ttf", "offset": [-4, 0] },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-thai@1.1.0/packages/plex-sans-thai/fonts/complete/ttf/IBMPlexSansThai-SemiBold.ttf" },
+            { "url": "https://github.com/notofonts/notofonts.github.io/raw/refs/heads/main/fonts/NotoSansThaana/hinted/ttf/NotoSansThaana-SemiBold.ttf" }
+          ]
+        },
+        {
+          "name": "IBMPlexSans-Bold",
+          "gredients": [
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans@1.1.0/packages/plex-sans/fonts/complete/ttf/IBMPlexSans-Bold.ttf" },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-arabic@1.1.0/packages/plex-sans-arabic/fonts/complete/ttf/IBMPlexSansArabic-Bold.ttf" },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-devanagari@1.1.0/packages/plex-sans-devanagari/fonts/complete/ttf/IBMPlexSansDevanagari-Bold.ttf" },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-hebrew@1.1.0/packages/plex-sans-hebrew/fonts/complete/ttf/IBMPlexSansHebrew-Bold.ttf" },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-jp@1.1.0/packages/plex-sans-jp/fonts/complete/ttf/hinted/IBMPlexSansJP-Bold.ttf" },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-kr@1.1.0/packages/plex-sans-kr/fonts/complete/ttf/hinted/IBMPlexSansKR-Bold.ttf" },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-sc@1.1.0/packages/plex-sans-sc/fonts/complete/ttf/hinted/IBMPlexSansSC-Bold.ttf", "offset": [-4, 0] },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-tc@1.1.0/packages/plex-sans-tc/fonts/complete/ttf/hinted/IBMPlexSansTC-Bold.ttf", "offset": [-4, 0] },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-sans-thai@1.1.0/packages/plex-sans-thai/fonts/complete/ttf/IBMPlexSansThai-Bold.ttf" },
+            { "url": "https://github.com/notofonts/notofonts.github.io/raw/refs/heads/main/fonts/NotoSansThaana/hinted/ttf/NotoSansThaana-Bold.ttf" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IBMPlexSerif",
+      "styles": [
+        {
+          "name": "IBMPlexSerif-ExtraLight",
+          "gredients": [
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-serif@1.1.0/packages/plex-serif/fonts/complete/ttf/IBMPlexSans-ExtraLight.ttf" },
+            { "url": "https://github.com/notofonts/notofonts.github.io/raw/refs/heads/main/fonts/NotoSerifDevanagari/hinted/ttf/NotoSerifDevanagari-ExtraLight.ttf" },
+            { "url": "https://github.com/notofonts/notofonts.github.io/raw/refs/heads/main/fonts/NotoSerifHebrew/hinted/ttf/NotoSerifHebrew-ExtraLight.ttf" },
+            { "url": "https://github.com/notofonts/notofonts.github.io/raw/refs/heads/main/fonts/NotoSerifThai/hinted/ttf/NotoSerifThai-ExtraLight.ttf" },
+            { "url": "https://github.com/notofonts/noto-cjk/raw/refs/heads/main/Serif/OTF/Japanese/NotoSerifCJKjp-ExtraLight.otf" },
+            { "url": "https://github.com/notofonts/noto-cjk/raw/refs/heads/main/Serif/OTF/Korean/NotoSerifCJKkr-ExtraLight.otf" },
+            { "url": "https://github.com/notofonts/noto-cjk/raw/refs/heads/main/Serif/OTF/SimplifiedChinese/NotoSerifCJKsc-ExtraLight.otf" },
+            { "url": "https://github.com/notofonts/noto-cjk/raw/refs/heads/main/Serif/OTF/TraditionalChinese/NotoSerifCJKtc-ExtraLight.otf" }
+          ]
+        }
+      ]
+    }
+  ]
+}
