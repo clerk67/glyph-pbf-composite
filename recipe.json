@@ -116,7 +116,7 @@
         {
           "name": "IBMPlexSerif-ExtraLight",
           "gredients": [
-            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-serif@1.1.0/packages/plex-serif/fonts/complete/ttf/IBMPlexSans-ExtraLight.ttf" },
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-serif@1.1.0/packages/plex-serif/fonts/complete/ttf/IBMPlexSerif-ExtraLight.ttf" },
             { "url": "https://github.com/notofonts/notofonts.github.io/raw/refs/heads/main/fonts/NotoSerifDevanagari/hinted/ttf/NotoSerifDevanagari-ExtraLight.ttf" },
             { "url": "https://github.com/notofonts/notofonts.github.io/raw/refs/heads/main/fonts/NotoSerifHebrew/hinted/ttf/NotoSerifHebrew-ExtraLight.ttf" },
             { "url": "https://github.com/notofonts/notofonts.github.io/raw/refs/heads/main/fonts/NotoSerifThai/hinted/ttf/NotoSerifThai-ExtraLight.ttf" },
@@ -124,6 +124,71 @@
             { "url": "https://github.com/notofonts/noto-cjk/raw/refs/heads/main/Serif/OTF/Korean/NotoSerifCJKkr-ExtraLight.otf" },
             { "url": "https://github.com/notofonts/noto-cjk/raw/refs/heads/main/Serif/OTF/SimplifiedChinese/NotoSerifCJKsc-ExtraLight.otf" },
             { "url": "https://github.com/notofonts/noto-cjk/raw/refs/heads/main/Serif/OTF/TraditionalChinese/NotoSerifCJKtc-ExtraLight.otf" }
+          ]
+        },
+        {
+          "name": "IBMPlexSerif-Light",
+          "gredients": [
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-serif@1.1.0/packages/plex-serif/fonts/complete/ttf/IBMPlexSerif-Light.ttf" },
+            { "url": "https://github.com/notofonts/notofonts.github.io/raw/refs/heads/main/fonts/NotoSerifDevanagari/hinted/ttf/NotoSerifDevanagari-Light.ttf" },
+            { "url": "https://github.com/notofonts/notofonts.github.io/raw/refs/heads/main/fonts/NotoSerifHebrew/hinted/ttf/NotoSerifHebrew-Light.ttf" },
+            { "url": "https://github.com/notofonts/notofonts.github.io/raw/refs/heads/main/fonts/NotoSerifThai/hinted/ttf/NotoSerifThai-Light.ttf" },
+            { "url": "https://github.com/notofonts/noto-cjk/raw/refs/heads/main/Serif/OTF/Japanese/NotoSerifCJKjp-Light.otf" },
+            { "url": "https://github.com/notofonts/noto-cjk/raw/refs/heads/main/Serif/OTF/Korean/NotoSerifCJKkr-Light.otf" },
+            { "url": "https://github.com/notofonts/noto-cjk/raw/refs/heads/main/Serif/OTF/SimplifiedChinese/NotoSerifCJKsc-Light.otf" },
+            { "url": "https://github.com/notofonts/noto-cjk/raw/refs/heads/main/Serif/OTF/TraditionalChinese/NotoSerifCJKtc-Light.otf" }
+          ]
+        },
+        {
+          "name": "IBMPlexSerif-Regular",
+          "gredients": [
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-serif@1.1.0/packages/plex-serif/fonts/complete/ttf/IBMPlexSerif-Regular.ttf" },
+            { "url": "https://github.com/notofonts/notofonts.github.io/raw/refs/heads/main/fonts/NotoSerifDevanagari/hinted/ttf/NotoSerifDevanagari-Regular.ttf" },
+            { "url": "https://github.com/notofonts/notofonts.github.io/raw/refs/heads/main/fonts/NotoSerifHebrew/hinted/ttf/NotoSerifHebrew-Regular.ttf" },
+            { "url": "https://github.com/notofonts/notofonts.github.io/raw/refs/heads/main/fonts/NotoSerifThai/hinted/ttf/NotoSerifThai-Regular.ttf" },
+            { "url": "https://github.com/notofonts/noto-cjk/raw/refs/heads/main/Serif/OTF/Japanese/NotoSerifCJKjp-Regular.otf" },
+            { "url": "https://github.com/notofonts/noto-cjk/raw/refs/heads/main/Serif/OTF/Korean/NotoSerifCJKkr-Regular.otf" },
+            { "url": "https://github.com/notofonts/noto-cjk/raw/refs/heads/main/Serif/OTF/SimplifiedChinese/NotoSerifCJKsc-Regular.otf" },
+            { "url": "https://github.com/notofonts/noto-cjk/raw/refs/heads/main/Serif/OTF/TraditionalChinese/NotoSerifCJKtc-Regular.otf" }
+          ]
+        },
+        {
+          "name": "IBMPlexSerif-Medium",
+          "gredients": [
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-serif@1.1.0/packages/plex-serif/fonts/complete/ttf/IBMPlexSerif-Medium.ttf" },
+            { "url": "https://github.com/notofonts/notofonts.github.io/raw/refs/heads/main/fonts/NotoSerifDevanagari/hinted/ttf/NotoSerifDevanagari-Medium.ttf" },
+            { "url": "https://github.com/notofonts/notofonts.github.io/raw/refs/heads/main/fonts/NotoSerifHebrew/hinted/ttf/NotoSerifHebrew-Medium.ttf" },
+            { "url": "https://github.com/notofonts/notofonts.github.io/raw/refs/heads/main/fonts/NotoSerifThai/hinted/ttf/NotoSerifThai-Medium.ttf" },
+            { "url": "https://github.com/notofonts/noto-cjk/raw/refs/heads/main/Serif/OTF/Japanese/NotoSerifCJKjp-Medium.otf" },
+            { "url": "https://github.com/notofonts/noto-cjk/raw/refs/heads/main/Serif/OTF/Korean/NotoSerifCJKkr-Medium.otf" },
+            { "url": "https://github.com/notofonts/noto-cjk/raw/refs/heads/main/Serif/OTF/SimplifiedChinese/NotoSerifCJKsc-Medium.otf" },
+            { "url": "https://github.com/notofonts/noto-cjk/raw/refs/heads/main/Serif/OTF/TraditionalChinese/NotoSerifCJKtc-Medium.otf" }
+          ]
+        },
+        {
+          "name": "IBMPlexSerif-SemiBold",
+          "gredients": [
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-serif@1.1.0/packages/plex-serif/fonts/complete/ttf/IBMPlexSerif-SemiBold.ttf" },
+            { "url": "https://github.com/notofonts/notofonts.github.io/raw/refs/heads/main/fonts/NotoSerifDevanagari/hinted/ttf/NotoSerifDevanagari-SemiBold.ttf" },
+            { "url": "https://github.com/notofonts/notofonts.github.io/raw/refs/heads/main/fonts/NotoSerifHebrew/hinted/ttf/NotoSerifHebrew-SemiBold.ttf" },
+            { "url": "https://github.com/notofonts/notofonts.github.io/raw/refs/heads/main/fonts/NotoSerifThai/hinted/ttf/NotoSerifThai-SemiBold.ttf" },
+            { "url": "https://github.com/notofonts/noto-cjk/raw/refs/heads/main/Serif/OTF/Japanese/NotoSerifCJKjp-SemiBold.otf" },
+            { "url": "https://github.com/notofonts/noto-cjk/raw/refs/heads/main/Serif/OTF/Korean/NotoSerifCJKkr-SemiBold.otf" },
+            { "url": "https://github.com/notofonts/noto-cjk/raw/refs/heads/main/Serif/OTF/SimplifiedChinese/NotoSerifCJKsc-SemiBold.otf" },
+            { "url": "https://github.com/notofonts/noto-cjk/raw/refs/heads/main/Serif/OTF/TraditionalChinese/NotoSerifCJKtc-SemiBold.otf" }
+          ]
+        },
+        {
+          "name": "IBMPlexSerif-Bold",
+          "gredients": [
+            { "url": "https://github.com/IBM/plex/raw/refs/tags/@ibm/plex-serif@1.1.0/packages/plex-serif/fonts/complete/ttf/IBMPlexSerif-Bold.ttf" },
+            { "url": "https://github.com/notofonts/notofonts.github.io/raw/refs/heads/main/fonts/NotoSerifDevanagari/hinted/ttf/NotoSerifDevanagari-Bold.ttf" },
+            { "url": "https://github.com/notofonts/notofonts.github.io/raw/refs/heads/main/fonts/NotoSerifHebrew/hinted/ttf/NotoSerifHebrew-Bold.ttf" },
+            { "url": "https://github.com/notofonts/notofonts.github.io/raw/refs/heads/main/fonts/NotoSerifThai/hinted/ttf/NotoSerifThai-Bold.ttf" },
+            { "url": "https://github.com/notofonts/noto-cjk/raw/refs/heads/main/Serif/OTF/Japanese/NotoSerifCJKjp-Bold.otf" },
+            { "url": "https://github.com/notofonts/noto-cjk/raw/refs/heads/main/Serif/OTF/Korean/NotoSerifCJKkr-Bold.otf" },
+            { "url": "https://github.com/notofonts/noto-cjk/raw/refs/heads/main/Serif/OTF/SimplifiedChinese/NotoSerifCJKsc-Bold.otf" },
+            { "url": "https://github.com/notofonts/noto-cjk/raw/refs/heads/main/Serif/OTF/TraditionalChinese/NotoSerifCJKtc-Bold.otf" }
           ]
         }
       ]

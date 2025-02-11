@@ -103,6 +103,7 @@ const main = async () => {
     throw new Error(`font not found: ${process.argv[2]}`);
   }
   for (let i = 0; i < font.styles.length; i++) {
+    console.log(`building: ${font.styles[i].name}`);
     const gredients = await Promise.all(font.styles[i].gredients.map(async ({ url, ...props }) => {
       const path = await download(url);
       const outputPath = await buildGlyphs(path);
